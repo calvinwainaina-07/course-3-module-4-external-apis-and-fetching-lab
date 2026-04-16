@@ -2,11 +2,13 @@
   "name": "weather-alert-lab",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest --env=jsdom"
-
+    "test": "jest --env=jsdom --reporters=default --reporters=jest-junit"
   },
   "dependencies": {
     "jest": "^29.0.0",
     "jest-environment-jsdom": "^29.0.0"
+  },
+  "devDependencies": {
+    "jest-junit": "^16.0.0"
   }
 }

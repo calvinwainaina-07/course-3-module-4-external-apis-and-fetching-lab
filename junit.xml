@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="1.982">
+  <testsuite name="Weather Alerts App" errors="0" failures="0" skipped="0" timestamp="2026-04-16T15:25:04" time="0.87" tests="2">
+    <testcase classname="Weather Alerts App clears the input field after clicking fetch" name="Weather Alerts App clears the input field after clicking fetch" time="0.398">
+    </testcase>
+    <testcase classname="Weather Alerts App displays the error message div" name="Weather Alerts App displays the error message div" time="0.017">
+    </testcase>
+  </testsuite>
+</testsuites>
